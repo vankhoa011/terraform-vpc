@@ -1,5 +1,5 @@
 # Terraform VPC
-I based on the [Terraform ECS] (https://github.com/arminc/terraform-ecs ), I spited some modules to create VPC.
+I based on the [Terraform ECS](https://github.com/arminc/terraform-ecs), I spited some modules to create VPC.
 
 You can change variables in `vpc.tfvars` , 
 
